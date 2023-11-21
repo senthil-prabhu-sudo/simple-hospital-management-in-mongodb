@@ -1,0 +1,23 @@
+1 -> Make sure you have Node.js and MongoDB installed on your machine.
+Create a new directory for your project and navigate to it in the terminal:
+
+code = mkdir hospital-management-system
+code = cd hospital-management-system
+
+2 -> Initialize your Node.js project:
+
+copy = npm init -y
+
+3 -> Install the required packages:
+
+copy = npm install express mongoose body-parser ejs
+
+<paste the app.js in file and add another file in vs code>
+
+4 -> Install new plugin
+
+code = npm install ejs
+
+5 -> After install run the code in terminal as
+
+code = node app.js
