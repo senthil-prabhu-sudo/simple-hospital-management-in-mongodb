@@ -21,3 +21,9 @@ code = npm install ejs
 5 -> After install run the code in terminal as
 
 code = node app.js
+
+6 -> To visible code on browser use 
+
+code = http://localhost:3000
+
+on any brower to show output
